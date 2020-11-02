@@ -1,2 +1,2 @@
-# nanem2018/github.io
+# nanem2018.github.io
 Моя версия waxom
